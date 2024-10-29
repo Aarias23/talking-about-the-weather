@@ -1,0 +1,26 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+}
+h2 {
+  color: #333;
+}
+
+.conversation {
+  background-color: #ffffff;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.line {
+  color: #495057;
+}
+
+.line.highlight {
+  background-color: #ffeeba; /* Highlight color for the selected line */
+}
